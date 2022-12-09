@@ -1,3 +1,5 @@
+# завдання 2// № 20
+
 import platform
 
 plat_str = platform.platform()
